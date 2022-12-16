@@ -14,22 +14,25 @@
 This is a Covid Vaccine Availabilty finder app for finding the availabilty of covid vaccine. Based on the basic inputs provided data is fetched using API. Tabular data get displayed showing the list of Centres with their available time slot and Fee. This helps the user to find the available slot.
 
 To run the project:
-1.Clone my repository.
-2.Open CMD in working directory.
-3.Run following command.
-   pip install -r requirements.txt
-   web.py is the main Python file of Streamlit App.
-4.To run app
+1. Clone my repository.
+2. Open CMD in working directory.
+3. Run following command. 
+  pip install -r requirements.txt
+  web.py is the main Python file of Streamlit App.
+4. To run app
    streamlit run web.py
-Go to your URL of localhost (Will be available in CMD)
+5. Go to your URL of localhost (Will be available in CMD)
+
 
 ## **3. Input / Output**
-Input Provided: 
+
+1. Input Provided: 
+
  ![image](https://user-images.githubusercontent.com/94836612/208198677-0dfbe81a-1462-46cd-89c4-e0d6fea89564.png)
 
-Output Provided:
-![image](https://user-images.githubusercontent.com/94836612/208198742-f126cce3-21a5-449b-9b5a-4a56bf3f77da.png)
+2. Output Provided:
 
+![image](https://user-images.githubusercontent.com/94836612/208198742-f126cce3-21a5-449b-9b5a-4a56bf3f77da.png)
 
 
 ## **4. Live link**
