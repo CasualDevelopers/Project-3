@@ -7,7 +7,7 @@
 2. Then the data will be fetched using government website API.
 3. List of Centres with their available time slot and Fee will be displayed.
 
-![image](https://user-images.githubusercontent.com/94836612/208198097-10e2b344-0b0f-4b53-9c22-4610dc048d02.png)
+            ![image](https://user-images.githubusercontent.com/94836612/208198097-10e2b344-0b0f-4b53-9c22-4610dc048d02.png)
 
 ## **2. Description**
 This is a Covid Vaccine Availabilty finder app for finding the availabilty of covid vaccine. Based on the basic inputs provided data is fetched using API. Tabular data get displayed showing the list of Centres with their available time slot and Fee. This helps the user to find the available slot.
