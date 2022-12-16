@@ -1,5 +1,5 @@
 
-# **Title: CoVaccine : Covid Vaccine Availability Checker **
+# Title: CoVaccine : Covid Vaccine Availability Checker 
 
 
 ## **1. Methodology**
