@@ -6,6 +6,8 @@
 1. In the app the first step is to fill some basic details like Area Pin Code, Age and Date.
 2. Then the data will be fetched using government website API.
 3. List of Centres with their available time slot and Fee will be displayed.
+
+
 ![image](https://user-images.githubusercontent.com/94836612/208198097-10e2b344-0b0f-4b53-9c22-4610dc048d02.png)
 
 ## **2. Description**
