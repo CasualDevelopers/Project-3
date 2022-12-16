@@ -42,9 +42,11 @@ Link: http://localhost:8501/
 ## **5. Screenshot of the Interface**
 
 For 18+ Age: 
+
 ![image](https://user-images.githubusercontent.com/94836612/208199345-383da674-a577-4c4d-ab55-a7db5bc5ff14.png)
 
 For 45+ Age:
+
 ![image](https://user-images.githubusercontent.com/94836612/208199468-8d1cd0e2-0361-42cc-83da-e3e3a960abf6.png)
 
 
